@@ -1,0 +1,4 @@
+
+haarcascades/haarcascade_frontalface_default.xml
+pred/shape_predictor_68_face_landmarks.dat
+.ipynb_checkpoints/Detección de rostros con OpenCV-checkpoint.ipynb
